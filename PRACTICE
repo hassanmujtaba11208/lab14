@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    int a = 50, b = 20;
+    int a = 51, b = 20;
 
     // Adding the two numbers and printing
     // their sum
